@@ -1,9 +1,9 @@
 import { useState } from 'react';
 
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://smittenkitchen.com/";
+   let authorPhoto = "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2021/07/YT_Thumb_MacCheese_v2.jpg?resize=640%2C360&ssl=1";
+   let authorName = "Deb Perelman";
 
    return (
       <div>
@@ -17,7 +17,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ['tomato', 'wheat flour', 'sugar', 'salt', 'water'];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -36,8 +36,8 @@ const RecipeDescription = () => {
    return (
       <div> 
          <div>
-            <h1></h1>
-            <p></p>
+         <h1>Tomato Soup</h1>
+           <p>Tomato soup is a soup with tomatoes as the primary ingredient. It can be served hot or cold, and may be made in a variety of ways. It may be smooth in texture, and there are also recipes that include chunks of tomato, cream, chicken or vegetable stock, vermicelli, chunks of other vegetables and meatballs.</p>
          </div>
          <div className="recipePhotoBlock">
             <RecipeIngredients />
@@ -49,7 +49,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://therecipecritic.com/wp-content/uploads/2022/10/tomatosoup-500x375.jpg" alt="recipe" className="imageUpdates"/>
    );
 }
 

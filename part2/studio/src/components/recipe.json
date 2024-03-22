@@ -1,18 +1,12 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
-     ]
+     "name": "Tomato Soup",
+     "author": "Deb Perelman",
+     "description": "Tomato soup is a soup with tomatoes as the primary ingredient. It can be served hot or cold, and may be made in a variety of ways. It may be smooth in texture, and there are also recipes that include chunks of tomato, cream, chicken or vegetable stock, vermicelli, chunks of other vegetables and meatballs.",
+     "website": "https://smittenkitchen.com/",
+     "recipeImage": "https://therecipecritic.com/wp-content/uploads/2022/10/tomatosoup-500x375.jpg",
+     "authorImage": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2021/07/YT_Thumb_MacCheese_v2.jpg?resize=640%2C360&ssl=1",
+     "ingredients": ["tomato", "wheat flour", "sugar", "salt", "water"]
    }
  ]
  
